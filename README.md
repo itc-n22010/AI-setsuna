@@ -26,7 +26,3 @@ python3.10.11
 
 
 ![YOME](https://lovelive-petitsoku.com/wp-content/uploads/2022/07/1659007700909.gif)
-
-# Git
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itc-n22010&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itc-n22010&layout=compact&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itc-n22010&theme=yeblu) 
