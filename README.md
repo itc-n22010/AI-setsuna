@@ -1,4 +1,4 @@
-﻿# AI-setsuna
+﻿# 企画提案書
 
 # あなたの理想のヒロイン 💩🤢🤮　[![Twitter: saito_takumi3](https://img.shields.io/twitter/follow/saito_takumi3?style=social)](https://twitter.com/saito_takumi3) 
 
