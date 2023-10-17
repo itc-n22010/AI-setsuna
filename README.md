@@ -1,10 +1,22 @@
 ﻿# AI-setsuna
 
-# PROFILE 💩🤢🤮　[![Twitter: saito_takumi3](https://img.shields.io/twitter/follow/saito_takumi3?style=social)](https://twitter.com/saito_takumi3) 
+# あなたの理想のヒロイン 💩🤢🤮　[![Twitter: saito_takumi3](https://img.shields.io/twitter/follow/saito_takumi3?style=social)](https://twitter.com/saito_takumi3) 
 
-A technical student living in Okinawa, he has been working for an infrastructure company in Tokyo since 2024.
-Now studying network, security, server and python!
-You can also check me out on Twitter!
+メンバー：　齋藤匠
+
+ペルソナ像
+自己満足
+
+企画内容
+chatgptのapiを利用して合成音声で好きなアニメキャラを会話する
+
+開発環境
+anaconda
+
+言語
+python3.10.11
+
+
 
 ![YOME](https://j.gifs.com/jYNZqy.gif?width)
 
