@@ -17,7 +17,7 @@ anaconda
 python3.10.11
 
 ## スケジュール
+https://docs.google.com/spreadsheets/d/1YaW9QexJLEFo1gt0OZR-Gb1ys55E8t5u7CDOgADh3hY/edit?pli=1#gid=1115838130
 
 
-
-![https://docs.google.com/spreadsheets/d/1YaW9QexJLEFo1gt0OZR-Gb1ys55E8t5u7CDOgADh3hY/edit?pli=1#gid=1115838130](https://lovelive-petitsoku.com/wp-content/uploads/2022/07/1659007700909.gif)
+![](https://lovelive-petitsoku.com/wp-content/uploads/2022/07/1659007700909.gif)
