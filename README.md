@@ -17,12 +17,7 @@ anaconda
 python3.10.11
 
 ## スケジュール
-
-10月17日～10月31日：音声学習用データ取得 <br>
-11月1日～11月30日：組み込み <br>
-12月1日～12月13日：最終確認 <br>
-12月14日～：発表作成練習 <br>
-
+https://docs.google.com/spreadsheets/d/1YaW9QexJLEFo1gt0OZR-Gb1ys55E8t5u7CDOgADh3hY/edit?pli=1#gid=1115838130
 
 
 ![YOME](https://lovelive-petitsoku.com/wp-content/uploads/2022/07/1659007700909.gif)
